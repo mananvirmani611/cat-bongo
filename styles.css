@@ -1,0 +1,12 @@
+.invisible{
+  display: none;
+}
+img{
+  width: 30%;
+}
+.main-div{
+  text-align: center;
+  margin-top:auto;
+  margin-bottom: auto;
+  margin-top:6%;
+}
