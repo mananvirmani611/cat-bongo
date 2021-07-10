@@ -10,3 +10,9 @@ img{
   margin-bottom: auto;
   margin-top:6%;
 }
+
+@media screen and (max-width: 992px) {
+  img {
+    width: 60%;
+  }
+}
